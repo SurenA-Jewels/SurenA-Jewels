@@ -2,7 +2,7 @@
 <!--                    PREMIUM HYBRID GITHUB README (FINAL)                -->
 <!-- ====================================================================== -->
 
-<img src="https://GitHub.com/SurenA-Jewels/Branding-Design/blob/main/draw.jpg" alt="SurenA Jewels Banner" width="100%" /> 
+<img src="https://github.com/SurenA-Jewels/Branding-Design/blob/main/draw.jpg" alt="SurenA Jewels Banner" width="100%" /> 
 
 # SurenA Jewels  
 ### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
