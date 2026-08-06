@@ -2,19 +2,19 @@
 <!--                    PREMIUM HYBRID GITHUB README (FINAL)                -->
 <!-- ====================================================================== -->
 
-<img src="https://github.com/Suren-Jewels/Branding-Design/blob/main/draw.jpg" alt="Suren Jewels Banner" width="100%" /> 
+<img src="https://GitHub.com/SurenA-Jewels/Branding-Design/blob/main/draw.jpg" alt="SurenA Jewels Banner" width="100%" /> 
 
 # SurenA Jewels  
 ### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: July 03, 2026
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://GitHub.com/SurenA-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: July 03, 2026
 
 <p align="center">
-  <a href="https://github.com/Suren-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://suren-jewels.github.io/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Suren-Jewels/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SurenJewelsPro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://GitHub.com/SurenA-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://SurenA-Jewels.GitHub.io/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://LinkedIn.com/in/SurenA-Jewels/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SurenA.Jewels@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -55,11 +55,11 @@ These represent my **active engineering brand** across Cloud, SRE, Security, and
 
 | Project | Focus | Technologies |
 |---------|--------|--------------|
-| **[Kuiper EGSE Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)** | Aerospace Infrastructure | EGSE, ATE, Linux/Windows, Automation |
-| **[ServiceNow Capacity Optimization](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)** | Enterprise SRE | Python, ServiceNow, Performance Engineering |
-| **[Federal Security Support](https://github.com/Suren-Jewels/Federal-Security-Support)** | Federal Compliance | IL4/IL5, Zero Trust, YubiKey |
-| **[YubiKey, VDI & ServiceNow Support](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)** | Identity Engineering | MFA, VDI, Zero Trust |
-| **[Scripts Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit)** | Automation & SRE | Python, PowerShell, Bash |
+| **[Kuiper EGSE Deployment](https://GitHub.com/SurenA-Jewels/Kuiper-EGSE-Deployment)** | Aerospace Infrastructure | EGSE, ATE, Linux/Windows, Automation |
+| **[ServiceNow Capacity Optimization](https://GitHub.com/SurenA-Jewels/ServiceNow-Capacity-Optimization)** | Enterprise SRE | Python, ServiceNow, Performance Engineering |
+| **[Federal Security Support](https://GitHub.com/SurenA-Jewels/Federal-Security-Support)** | Federal Compliance | IL4/IL5, Zero Trust, YubiKey |
+| **[YubiKey, VDI & ServiceNow Support](https://GitHub.com/SurenA-Jewels/YubiKey-VDI-ServiceNow-Support)** | Identity Engineering | MFA, VDI, Zero Trust |
+| **[Scripts Toolkit](https://GitHub.com/SurenA-Jewels/Scripts-Toolkit)** | Automation & SRE | Python, PowerShell, Bash |
 
 ---
 
@@ -116,7 +116,7 @@ These represent my **active engineering brand** across Cloud, SRE, Security, and
 # Legacy Projects Archive  
 Older or secondary projects are consolidated here:
 
-**[Legacy‑Projects‑Archive](https://github.com/Suren-Jewels/Legacy-Projects-Archive)**
+**[Legacy‑Projects‑Archive](https://GitHub.com/SurenA-Jewels/Legacy-Projects-Archive)**
 
 ---
 
@@ -130,9 +130,9 @@ All shared documentation is **sanitized**, and certain technical details are int
 
 | Channel | Link |
 |---------|------|
-| **📧 Email** | [SurenJewelsPro@gmail.com](mailto:SurenJewelsPro@gmail.com) |
-| **🔗 LinkedIn** | [linkedin.com/in/suren-jewels](https://www.linkedin.com/in/suren-jewels/) |
-| **🗄️ GitHub** | [github.com/Suren-Jewels](https://github.com/Suren-Jewels?tab=repositories) |
+| **📧 Email** | [SurenJewelsPro@gmail.com](mailto:SurenA.Jewels@gmail.com) |
+| **🔗 LinkedIn** | [linkedin.com/in/suren-jewels](https://www.LinkedIn.com/in/SurenA-Jewels/) |
+| **🗄️ GitHub** | [github.com/Suren-Jewels](https://GitHub.com/SurenA-Jewels?tab=repositories) |
 
 [![u8views](https://u8views.com/api/v1/github/profiles/190319437/views/day-week-month-total-count.svg)](https://u8views.com/github/Suren-Jewels)
 
