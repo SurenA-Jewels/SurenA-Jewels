@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Suren-Jewels/Branding-Design/blob/main/draw.jpg" alt="Suren Jewels Banner" width="100%" /> 
 
-# Surena Jewels  
+# SurenA Jewels  
 ### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
