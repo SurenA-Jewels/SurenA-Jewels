@@ -130,9 +130,9 @@ All shared documentation is **sanitized**, and certain technical details are int
 
 | Channel | Link |
 |---------|------|
-| **📧 Email** | [SurenJewelsPro@gmail.com](mailto:SurenA.Jewels@gmail.com) |
-| **🔗 LinkedIn** | [linkedin.com/in/suren-jewels](https://www.LinkedIn.com/in/SurenA-Jewels/) |
-| **🗄️ GitHub** | [github.com/Suren-Jewels](https://GitHub.com/SurenA-Jewels?tab=repositories) |
+| **📧 Email** | [SurenA.Jewels@gmail.com](mailto:SurenA.Jewels@gmail.com) |
+| **🔗 LinkedIn** | [LinkedIn.com/in/SurenA-Jewels](https://www.LinkedIn.com/in/SurenA-Jewels/) |
+| **🗄️ GitHub** | [GitHub.com/SurenA-Jewels](https://GitHub.com/SurenA-Jewels?tab=repositories) |
 
 [![u8views](https://u8views.com/api/v1/github/profiles/190319437/views/day-week-month-total-count.svg)](https://u8views.com/github/Suren-Jewels)
 
