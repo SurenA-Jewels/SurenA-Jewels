@@ -5,7 +5,7 @@
 <img src="https://github.com/SurenA-Jewels/Branding-Design/blob/main/draw.jpg" alt="SurenA Jewels Banner" width="100%" /> 
 
 # Suren A. Jewels  
-### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
+### Cloud Infrastructure & Security Engineer | AWS · Azure · GCP | IL4/IL5 · Zero Trust · Project Kuiper | 25 Years | $2M+ Recovered
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://GitHub.com/SurenA-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: Aug 06, 2026
