@@ -8,7 +8,7 @@
 ### Cloud Infrastructure & Security Engineer | AWS · Azure · GCP | IL4/IL5 · Zero Trust · Project Kuiper | 25 Years | $2M+ Recovered
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://GitHub.com/SurenA-Jewels/Resume-Portfolio/blob/main/SurenA_Jewels_Resume.pdf) Update Date: Aug 07, 2026
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://GitHub.com/SurenA-Jewels/Resume-Portfolio/blob/main/SurenA_Jewels_Resume.pdf) Update Date: Aug 08, 2026
 
 <p align="center">
   <a href="https://GitHub.com/SurenA-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
