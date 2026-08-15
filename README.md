@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SurenA-Jewels/Branding-Design/blob/main/Banner_08-14-2026.jpg" alt="SurenA Jewels Banner" width="100%" /> 
 
-# Suren A. Jewels  
+# SurenA Jewels  
 ### Cloud Infrastructure & Security Engineer | AWS · Azure · GCP | IL4/IL5 · Zero Trust · Project Kuiper | 25 Years | $2M+ Recovered
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
