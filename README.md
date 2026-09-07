@@ -5,7 +5,9 @@
 <img src="https://github.com/SurenA-Jewels/Branding-Design/blob/main/GitHub-08202026.jpg" alt="SurenA Jewels Banner" width="100%" /> 
 
 # SurenA Jewels  
-### Cloud Infrastructure & Security Engineer | AWS • Azure (GCP familiarity) | IL4/IL5 · FedRAMP · DOJ Public Trust | 1,000+ server hybrid ops
+### Cloud Infrastructure & Security Engineer | AWS · Azure | IL4/IL5 · FedRAMP · DOJ Public Trust | Project Kuiper | $2M+ Recovered
+📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
+
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://GitHub.com/SurenA-Jewels/Resume-Portfolio/blob/main/SurenA_Jewels_Resume.pdf) Update Date: Aug 08, 2026
 
 <p align="center">
